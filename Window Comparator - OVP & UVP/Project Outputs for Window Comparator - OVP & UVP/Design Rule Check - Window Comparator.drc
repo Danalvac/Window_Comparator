@@ -1,52 +1,27 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\DanielAlvarez\Desktop\Power board\Window_Comparator\Window Comparator - OVP & UVP\Window Comparator.PcbDoc
-Date     : 07/02/2024
-Time     : 16:58:28
+Date     : 08/02/2024
+Time     : 13:30:23
 
-Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.254mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad U1-5(4130.287mil,3345mil) on Top Layer And Pad C1-1(4285mil,3345.63mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-2(4259.37mil,3155mil) on Top Layer And Pad C1-2(4285mil,3424.37mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-2(4285mil,3424.37mil) on Top Layer And Pad J3-1(4566.85mil,3915mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net INB Between Pad C2-1(4180.63mil,3155mil) on Top Layer And Pad R4-2(4255mil,2950mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net INB Between Pad U1-4(4130.287mil,3307.598mil) on Top Layer And Pad C2-1(4180.63mil,3155mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-2(3936.26mil,3155mil) on Top Layer And Pad C2-2(4259.37mil,3155mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-2(4259.37mil,3155mil) on Top Layer And Pad R4-1(4550.276mil,2850mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net INA Between Pad C3-1(4015mil,3155mil) on Top Layer And Pad U1-3(4039.713mil,3307.598mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-2(3936.26mil,3155mil) on Top Layer And Pad U1-2(4039.713mil,3345mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net OUTA Between Pad D1-1(4025mil,3660.472mil) on Top Layer And Pad J4-1(4035mil,3520mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net LED_IND Between Pad D1-2(4025mil,3719.528mil) on Top Layer And Pad D2-2(4150mil,3719.528mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net LED_IND Between Pad D1-2(4025mil,3719.528mil) on Top Layer And Pad R5-1(4085mil,3831.693mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net OUTB Between Pad J4-2(4135mil,3520mil) on Multi-Layer And Pad D2-1(4150mil,3660.472mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-1(3465mil,3920mil) on Multi-Layer And Pad J3-1(4566.85mil,3915mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net Vin Between Pad J1-2(3268.15mil,3920mil) on Multi-Layer And Pad R1-2(3676.693mil,3835mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net INA Between Pad J2-1(3310mil,2945mil) on Multi-Layer And Pad R3-2(3654.724mil,2955mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net INB Between Pad J2-2(3310mil,2845mil) on Multi-Layer And Pad R3-1(3950mil,2855mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad R5-2(4085mil,3918.307mil) on Top Layer And Pad J3-2(4370mil,3915mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net OUTA Between Pad J4-1(4035mil,3520mil) on Multi-Layer And Pad U1-1(4039.713mil,3382.402mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net OUTB Between Pad U1-6(4130.287mil,3382.402mil) on Top Layer And Pad J4-2(4135mil,3520mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_1 Between Pad R2-2(3760mil,3610mil) on Top Layer And Pad R1-1(3763.307mil,3835mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net INA Between Pad R3-2(3654.724mil,2955mil) on Top Layer And Pad R2-1(3660mil,3314.724mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net INA Between Pad R2-1(3660mil,3314.724mil) on Top Layer And Pad U1-3(4039.713mil,3307.598mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net INB Between Pad R3-1(3950mil,2855mil) on Top Layer And Pad R4-2(4255mil,2950mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5 Between Pad R5-2(4085mil,3918.307mil) on Top Layer And Pad U1-5(4130.287mil,3345mil) on Top Layer 
-Rule Violations :25
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=3.543mil) (Max=39.37mil) (Preferred=11.811mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=250mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
@@ -68,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 25
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:02
