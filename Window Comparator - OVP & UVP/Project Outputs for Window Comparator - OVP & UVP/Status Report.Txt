@@ -1,27 +1,17 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 15:40:26 On 08/02/2024
+Start Output Generation At 17:24:29 On 07/03/2024
 
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of PCB Document [Window Comparator.PcbDoc]
-   Generated File[Window Comparator_Legend_Top.gbr]
-   Generated File[Window Comparator_Paste_Top.gbr]
-   Generated File[Window Comparator_Soldermask_Top.gbr]
-   Generated File[Window Comparator_Copper_Signal_Top.gbr]
-   Generated File[Window Comparator_Copper_Plane_1.gbr]
-   Generated File[Window Comparator_Copper_Plane_2.gbr]
-   Generated File[Window Comparator_Copper_Signal_Bot.gbr]
-   Generated File[Window Comparator_Soldermask_Bot.gbr]
-   Generated File[Window Comparator_Paste_Bot.gbr]
-   Generated File[Window Comparator_Legend_Bot.gbr]
-   Generated File[Window Comparator_Mechanical_1.gbr]
-   Generated File[Window Comparator_Profile.gbr]
-   Generated File[Window Comparator.EXTREP]
-   Generated File[Window Comparator.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Window Comparator.PcbDoc]
+   Generated File[Window Comparator.TXT]
+   Generated File[Window Comparator.DRL]
+   Generated File[Window Comparator.LDP]
+   Generated File[Window Comparator.DRR]
 
 
-Files Generated   : 14
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 15:40:27 On 08/02/2024
+Finished Output Generation At 17:24:29 On 07/03/2024
